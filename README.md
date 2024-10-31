@@ -4,6 +4,6 @@ This is my project, it is a breif overview of a few key topics in finance. Pleas
 
 ## Pages
 
-- [Personal Finance](./personal-finance.md)
-- [Investments](./investments.md)
-- [Economic Concepts](./economic-concepts.md)
+- [Budgeting](./Budgeting.md)
+- [Investments](./Investments.md)
+- [Economics](./Economics.md)
